@@ -1,10 +1,12 @@
 #fuckitruby
 
+[![Build Status](https://travis-ci.org/alehander42/fuckitruby.svg)](https://travis-ci.org/alehander42/fuckitruby)
+
 Tired of `NameError` ? Tired of the lack of AI? Tired of ruby-not-being-a-grammar-nazi?
 
 Fuck it, ruby, that's not what I meant!
 
-![gif showing how fuckitruby works](http://i.imgur.com/590uk39.gifv)
+![](http://i.imgur.com/590uk39.gif)
 ```ruby
 def lala(explicit)
   if exlicit
@@ -47,7 +49,7 @@ gem install fuckitruby
 
 * why
 
-  it's fun.
+  it's absolutely worthless, but it's fun.
 
   it's "a program can self-heal itself on error conditions" little experiment
 
@@ -65,7 +67,13 @@ gem install fuckitruby
 
   it uses [colorize](https://github.com/fazibear/colorize) to color the output
 
+* it's not totally automatic
+  
+  it informs you what it's trying to do. it's like "okay, now you're in the operation room. grab a whiskey and survive"
+  it can be automated to take the [ENTER] action by default, I am not sure if it makes sense, tho
+
 * uh
+
   it's inspired by magnificient [thefuck command](https://github.com/nvbn/thefuck) 
 
 ## that name sucks
