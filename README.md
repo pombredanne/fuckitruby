@@ -6,7 +6,7 @@ Tired of `NameError` ? Tired of the lack of AI? Tired of ruby-not-being-a-gramma
 
 Fuck it, ruby, that's not what I meant!
 
-![](http://i.imgur.com/590uk39.gif)
+![](http://i.giphy.com/xTiTnndBDbf1TG3Kso.gif)
 ```ruby
 def lala(explicit)
   if exlicit
