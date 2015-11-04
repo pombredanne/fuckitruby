@@ -56,7 +56,7 @@ gem install fuckitruby
 
 * srsly?
 
-  well it's not for production use , but it combines several really cool hacks
+  well it's not for production use, but it combines several really cool libraries
 
   it looks for the local variables in the offending scope using [binding_of_caller](https://github.com/banister/binding_of_caller),
 
