@@ -60,7 +60,7 @@ gem install fuckitruby
 
   it looks for the local variables in the offending scope using [binding_of_caller](https://github.com/banister/binding_of_caller),
 
-  it uses lewenstein distance to find the most probable fix, thanks [hotwater](https://github.com/colinsurprenant/hotwater)
+  it uses levenshtein distance to find the most probable fix, thanks [hotwater](https://github.com/colinsurprenant/hotwater)
 
   it uses [parser](https://github.com/whitequark/parser/) to
   find the exact locations of name uses in the method 
