@@ -18,8 +18,8 @@ end
 ```
 
 ```bash
-/home/penka-was-abducted/lala.rb:2:in `lala': undefined local variable or method `exlicit' for main:Object (NameError)
-  from /home/penka-was-abducted/lala.rb:9:in `<main>'
+/home/q/lala.rb:2:in `lala': undefined local variable or method `exlicit' for main:Object (NameError)
+  from /home/q/lala.rb:9:in `<main>'
 ```
 
 ohh
